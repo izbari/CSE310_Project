@@ -25,3 +25,6 @@ This command will fetch and merge the changes from the remote server into your w
 ##### 4. What does the git clone command do ?
 
 The git clone command allows us to download the repository located on git servers to our local computer. Like the meaning of its name git clone command creates actual copy of the repository.
+
+
+-All the questions have been answered by 12:18
